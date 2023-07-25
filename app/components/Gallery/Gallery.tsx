@@ -20,6 +20,8 @@ const PictureGallery = ({ images }: PictureGalleryProps) => {
 									image.media.length < 1
 										? image.contract.openSea.imageUrl
 										: image.media[0].thumbnail
+										? image.media[0].thumbnail
+										: image.rawMetadata.image_url
 								}
 							/>
 						</Canvas>
