@@ -6,6 +6,7 @@ A NFT Gallery that allows you to connect your crypto wallet and display your NFT
 
 ## Table of Contents
 
+<<<<<<< HEAD
 - [NFT GALLERY](#nft-gallery)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
@@ -14,6 +15,16 @@ A NFT Gallery that allows you to connect your crypto wallet and display your NFT
   - [License](#license)
   - [Acknowledgements](#acknowledgements)
     - [Hydration Error with Wagmi Library in Next.js](#hydration-error-with-wagmi-library-in-nextjs)
+=======
+-   [NFT GALLERY](#nft-gallery)
+    -   [Table of Contents](#table-of-contents)
+    -   [Installation](#installation)
+    -   [Usage](#usage)
+    -   [Features](#features)
+    -   [License](#license)
+    -   [Acknowledgements](#acknowledgements)
+        -   [Hydration Error with Wagmi Library in Next.js](#hydration-error-with-wagmi-library-in-nextjs)
+>>>>>>> main
 
 ## Installation
 
